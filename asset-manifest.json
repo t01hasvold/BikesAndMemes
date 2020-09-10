@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BikesAndMemes/static/css/main.5f361e03.chunk.css",
+    "main.js": "/BikesAndMemes/static/js/main.dd509735.chunk.js",
+    "main.js.map": "/BikesAndMemes/static/js/main.dd509735.chunk.js.map",
+    "runtime-main.js": "/BikesAndMemes/static/js/runtime-main.564b4e16.js",
+    "runtime-main.js.map": "/BikesAndMemes/static/js/runtime-main.564b4e16.js.map",
+    "static/js/2.d670f3d7.chunk.js": "/BikesAndMemes/static/js/2.d670f3d7.chunk.js",
+    "static/js/2.d670f3d7.chunk.js.map": "/BikesAndMemes/static/js/2.d670f3d7.chunk.js.map",
+    "index.html": "/BikesAndMemes/index.html",
+    "precache-manifest.6312cbb129bdccf8b934c94ec3ac49ef.js": "/BikesAndMemes/precache-manifest.6312cbb129bdccf8b934c94ec3ac49ef.js",
+    "service-worker.js": "/BikesAndMemes/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/BikesAndMemes/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d670f3d7.chunk.js.LICENSE.txt": "/BikesAndMemes/static/js/2.d670f3d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.564b4e16.js",
+    "static/js/2.d670f3d7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dd509735.chunk.js"
+  ]
+}
